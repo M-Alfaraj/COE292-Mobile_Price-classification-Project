@@ -65,6 +65,7 @@ All models were evaluated using:
 
 
 ## Results Summary
+
 | Model |	Accuracy | Precision |	Recall | F1-score |
 | KNN |	0.5775 |	0.5874 |	0.5775 |	0.5798 |
 | SVM |	0.9615 |	0.9623 |	0.9615 |	0.9614 |
@@ -73,5 +74,5 @@ All models were evaluated using:
 ## Conclusion
 SVM achieved the best performance, indicating strong class separability in the dataset. MLP performed well by capturing non-linear patterns, while KNN showed lower performance due to sensitivity to overlapping feature distributions.
 
-🎥 Video Demonstration
-Link: [Insert Here]
+## Video Demonstration
+Link: https://drive.google.com/file/d/1sfQL-YiUuaeDYir4mMymAo_XlHoS_9Sd/view?usp=sharing 
